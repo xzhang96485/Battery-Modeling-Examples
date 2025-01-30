@@ -4,7 +4,7 @@
 
 ## Getting started
 
-Open the project "BatteryModelExamples."
+Open the project "BatteryModelingExamples."
 
 Go to "PROJECT SHORTCUTS."
 
